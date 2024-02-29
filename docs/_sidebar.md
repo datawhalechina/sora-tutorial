@@ -1,8 +1,10 @@
-- 第1章 [我是第1章的标题](chapter1/chapter1)
-- 第2章 我是第2章的标题
-    - [2.1 我是2.1的标题](chapter2/chapter2_1)
-    - [2.2 我是2.2的标题](chapter2/chapter2_2)
-- 第3章 我是第3章的标题
-    - 3.1 我是3.1的标题
-        - 3.1.1 [我是3.1.1的标题](chapter3/chapter3_1/chapter3_1_1)
-        - 3.1.2 [我是3.1.2的标题](chapter3/chapter3_1/chapter3_1_2)
+- 第1章 Sora技术路径
+    - [Sora技术路径](chapter1/chapter1)
+- 第2章 技术解析与实战
+    - [Stable diffusion技术解析，基于diffusion的视频生成技术介绍+实战](chapter2/chapter2_1)
+    - [Transformers技术解析+实战(LLM)，多种Transformers diffusion模型技术图像生成技术+实战](chapter2/chapter2_2)
+    - [基于Transformers diffusion的视频生成技术解析+实战介绍](chapter2/chapter2_3)
+    - [声音生成TTS技术解析与实战](chapter2/chapter2_4)
+- 第3章 Sora训练与出片
+    - [训练一个sora模型的准备工作，video caption和算力评估](chapter3/chapter3_1)
+    - [做一个自己的AI短片吧](chapter3/chapter3_2)
