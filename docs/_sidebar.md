@@ -1,5 +1,5 @@
 - 第1章 Sora技术路径
-    - [Sora技术路径](chapter1/chapter1)
+    - [Sora技术路径](chapter1/chapter1_1)
 - 第2章 技术解析与实战
     - [Stable diffusion技术解析，基于diffusion的视频生成技术介绍+实战](chapter2/chapter2_1)
     - [Transformers技术解析+实战(LLM)，多种Transformers diffusion模型技术图像生成技术+实战](chapter2/chapter2_2)

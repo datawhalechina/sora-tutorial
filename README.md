@@ -38,7 +38,7 @@ Sora技术路径详解，并针对Sora原理中的核心技术点，包括基于
 | 课程 | 嘉宾 | 资料 |
 | :----| :---- | :---- |
 | 开营仪式：课程介绍 | 玉鑫：Datawhale成员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/> [PPT下载](https://datawhaler.feishu.cn/file/YAK8bkpu1oG2FdxkEYvcIErXn0g)|
-| 第一讲：Sora技术原理详解 | 杨知铮：厦门大学平潭研究院研究员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/>[文字教程](./docs/chapter1/chapter1.md) <br/>[PPT下载](https://datawhaler.feishu.cn/file/KntHbV3QGoEPruxEql2c9lrsnOb)|
+| 第一讲：Sora技术原理详解 | 杨知铮：厦门大学平潭研究院研究员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/>[文字教程](./docs/chapter1/chapter1_1.md) <br/>[PPT下载](https://datawhaler.feishu.cn/file/KntHbV3QGoEPruxEql2c9lrsnOb)|
 
 ## 参与贡献
 
