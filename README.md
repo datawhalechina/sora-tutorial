@@ -39,6 +39,7 @@ Sora技术路径详解，并针对Sora原理中的核心技术点，包括基于
 | :----| :---- | :---- |
 | 开营仪式：课程介绍 | 玉鑫：Datawhale成员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/> [PPT下载](https://datawhaler.feishu.cn/file/YAK8bkpu1oG2FdxkEYvcIErXn0g)|
 | 第一讲：Sora技术原理详解 | 杨知铮：厦门大学平潭研究院研究员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/>[文字教程](./docs/chapter1/chapter1_1.md) <br/>[PPT下载](https://datawhaler.feishu.cn/file/KntHbV3QGoEPruxEql2c9lrsnOb)|
+| 第二讲：文生图片技术路径、原理与SD实战 | 成晨：魔搭社区技术运营负责人 | [录播回放](https://www.bilibili.com/video/BV1ZS421A7sR/?vd_source=79686b80ce91d6c3977b2e269db5e8b8) <br/>[文字教程](./docs/chapter2/chapter2_1.md) |
 
 ## 参与贡献
 
