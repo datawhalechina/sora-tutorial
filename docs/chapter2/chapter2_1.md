@@ -276,3 +276,7 @@ link：待上线课程github
 通常的视频生成的任务有两种：文生视频和图生视频
 
 ![image](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/WgZOZw2dLXgdlLX8/img/eb542d44-dfcb-4cd2-ac21-da438d1bd7f8.png)
+
+# 六、录播回放地址
+
+[录播回放](https://www.bilibili.com/video/BV1ZS421A7sR/?vd_source=79686b80ce91d6c3977b2e269db5e8b8)
