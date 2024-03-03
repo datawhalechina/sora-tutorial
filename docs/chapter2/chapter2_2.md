@@ -20,6 +20,9 @@
 具体可移步：[practice](./attention-llm/README.md)
 
 
+### 录播回放地址
+
+[录播回放](https://www.bilibili.com/video/BV17Z421a71d/)
 
 
 
