@@ -71,22 +71,16 @@ Latte提出了一种新颖的潜在扩散变压器，用于视频生成。Latte�
 
 # 3、代码实战
 
-Patch最佳实践
+[Patch最佳实践](./patch-BestPractice.ipynb)
 
-[https://github.com/datawhalechina/sora-tutorial/upload/main/docs/chapter3/patch-BestPractice.ipynb](https://github.com/modelscope/scope-classroom/blob/main/AIGC-tutorial/patch-BestPractice.ipynb)
+[ViT最佳实践](./ViT-BestPractice.ipynb)
 
-ViT最佳实践
+[UViT最佳实践](./UViT_ImageNet_demo.ipynb)
 
-[https://github.com/datawhalechina/sora-tutorial/upload/main/docs/chapter3/ViT-BestPractice.ipynb](https://github.com/modelscope/scope-classroom/blob/main/AIGC-tutorial/ViT-BestPractice.ipynb)
+[ViViT最佳实践](./ViViT-BestPractice.ipynb)
 
-UViT最佳实践
+[Latte最佳实践](./Latte-BestPractice.ipynb)
 
-[https://github.com/datawhalechina/sora-tutorial/upload/main/docs/chapter3/UViT\_ImageNet\_demo.ipynb](https://github.com/modelscope/scope-classroom/blob/main/AIGC-tutorial/UViT_ImageNet_demo.ipynb)
+# 4、录播回放地址
 
-ViViT最佳实践
-
-[https://github.com/datawhalechina/sora-tutorial/upload/main/docs/chapter3l/ViViT-BestPractice.ipynb](https://github.com/modelscope/scope-classroom/blob/main/AIGC-tutorial/ViViT-BestPractice.ipynb)
-
-Latte最佳实践
-
-[https://github.com/datawhalechina/sora-tutorial/upload/main/docs/chapter3/Latte-BestPractice.ipynb](https://github.com/modelscope/scope-classroom/blob/main/AIGC-tutorial/Latte-BestPractice.ipynb)
+[录播回放](https://www.bilibili.com/video/BV1px421y7qU/?vd_source=79686b80ce91d6c3977b2e269db5e8b8)

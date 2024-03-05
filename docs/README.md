@@ -29,6 +29,6 @@ Sora技术路径详解，并针对Sora原理中的核心技术点，包括基于
 
 | 学习阶段 | 学习内容 |
 | :----| :---- |
-| Sora技术路径 | 深入了解Sora技术路径，系统认知 |
-| 技术解析与实战 | Stable diffusion技术解析，基于diffusion的视频生成技术介绍+实战 <br/> Transformers技术解析+实战(LLM) <br/> 多种Transformers diffusion模型技术图像生成技术+实战 <br/> 基于Transformers diffusion的视频生成技术解析+实战 <br/> 声音生成TTS技术解析与实战 <br/> |
-| Sora训练与出片 | 训练一个sora模型的准备工作，video caption和算力评估 <br/> 用自己训练的模型，做一个自己的AI短片吧 |
+| chapter1 Sora技术路径 | 深入了解Sora技术路径，系统认知 |
+| chapter2 技术解析与实战 | Stable diffusion技术解析，基于diffusion的视频生成技术介绍+实战 <br/> Transformers技术解析+实战(LLM) <br/> 多种Transformers diffusion模型技术图像生成技术+实战 <br/> 基于Transformers diffusion的视频生成技术解析+实战 <br/> 声音生成TTS技术解析与实战 <br/> |
+| chapter3 Sora训练与出片 | 训练一个sora模型的准备工作，video caption和算力评估 <br/> 用自己训练的模型，做一个自己的AI短片吧 |

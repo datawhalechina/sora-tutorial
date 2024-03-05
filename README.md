@@ -29,9 +29,9 @@ Sora技术路径详解，并针对Sora原理中的核心技术点，包括基于
 
 | 学习阶段 | 学习内容 |
 | :----| :---- |
-| Sora技术路径 | 深入了解Sora技术路径，系统认知 |
-| 技术解析与实战 | Stable diffusion技术解析，基于diffusion的视频生成技术介绍+实战 <br/> Transformers技术解析+实战(LLM) <br/> 多种Transformers diffusion模型技术图像生成技术+实战 <br/> 基于Transformers diffusion的视频生成技术解析+实战 <br/> 声音生成TTS技术解析与实战 <br/> |
-| Sora训练与出片 | 训练一个sora模型的准备工作，video caption和算力评估 <br/> 用自己训练的模型，做一个自己的AI短片吧 |
+| chapter1 Sora技术路径 | 深入了解Sora技术路径，系统认知 |
+| chapter2 技术解析与实战 | Stable diffusion技术解析，基于diffusion的视频生成技术介绍+实战 <br/> Transformers技术解析+实战(LLM) <br/> 多种Transformers diffusion模型技术图像生成技术+实战 <br/> 基于Transformers diffusion的视频生成技术解析+实战 <br/> 声音生成TTS技术解析与实战 <br/> |
+| chapter3 Sora训练与出片 | 训练一个sora模型的准备工作，video caption和算力评估 <br/> 用自己训练的模型，做一个自己的AI短片吧 |
 
 ## 学习资料
 
@@ -39,8 +39,9 @@ Sora技术路径详解，并针对Sora原理中的核心技术点，包括基于
 | :----| :---- | :---- |
 | 开营仪式：课程介绍 | 玉鑫：Datawhale成员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/> [PPT下载](https://datawhaler.feishu.cn/file/YAK8bkpu1oG2FdxkEYvcIErXn0g)|
 | 第一讲：Sora技术原理详解 | 杨知铮：厦门大学平潭研究院研究员 | [录播回放](https://www.bilibili.com/video/BV1wm411f7gf) <br/>[文字教程](./docs/chapter1/chapter1_1.md) <br/>[PPT下载](https://datawhaler.feishu.cn/file/KntHbV3QGoEPruxEql2c9lrsnOb)|
-| 第二讲：文生图片技术路径、原理与SD实战 | 成晨：魔搭社区技术运营负责人 | [录播回放](https://www.bilibili.com/video/BV1ZS421A7sR/?vd_source=79686b80ce91d6c3977b2e269db5e8b8) <br/>[文字教程](./docs/chapter2/chapter2_1.md) |
-| 第三讲：Transformers技术解析+实战(LLM) | 长琴：Datawhale成员、HuggingLLM负责人 | [录播回放](https://www.bilibili.com/video/BV17Z421a71d/) <br/>[文字教程](./docs/chapter2/chapter2_2.md) |
+| 第二讲：文生图片技术路径、原理与SD实战 | 成晨：魔搭社区技术运营负责人 | [录播回放](https://www.bilibili.com/video/BV1ZS421A7sR/?vd_source=79686b80ce91d6c3977b2e269db5e8b8) <br/>[文字教程](./docs/chapter2/chapter2_1/chapter2_1.md) |
+| 第三讲：Transformers技术解析+实战(LLM) | 长琴：Datawhale成员、HuggingLLM负责人 | [录播回放](https://www.bilibili.com/video/BV17Z421a71d/) <br/>[文字教程](./docs/chapter2/chapter2_2/chapter2_2.md) |
+| 第四讲：基于Transformers diffusion的视频生成技术解析+实战介绍 | 聂同学： U-ViT作者 <br/> 成晨：魔搭社区技术运营负责人 | [录播回放](https://www.bilibili.com/video/BV1px421y7qU/?vd_source=79686b80ce91d6c3977b2e269db5e8b8) <br/>[文字教程](./docs/chapter2/chapter2_3/chapter2_3.md) |
 
 ## 参与贡献
 
